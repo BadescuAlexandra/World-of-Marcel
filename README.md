@@ -1,2 +1,2 @@
 # World-of-Marcel
-Text base adventure game 
+Text based adventure game 
